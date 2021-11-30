@@ -760,7 +760,7 @@ export const defaultHighlightStyle = HighlightStyle.define([
   {tag: tags.strikethrough,
    textDecoration: "line-through"},
   {tag: tags.keyword,
-   color: "#708"},
+   color: "#085"},
   {tag: [tags.atom, tags.bool, tags.url, tags.contentSeparator, tags.labelName],
    color: "#219"},
   {tag: [tags.literal, tags.inserted],
